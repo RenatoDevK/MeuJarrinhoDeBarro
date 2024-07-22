@@ -1,2 +1,2 @@
 # MeuJarrinhoDeBarro
- Site One Page de produtos de barro
+ Site One Page do Ateliê Meu Jarrinho De Barro
