@@ -71,14 +71,14 @@ h1, h2, h3, h4, h5, h6{
     column-gap: 10px;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 950px) {
     .grid {
       grid-template-columns: repeat(4, 1fr);
     }
   }
   
   /* Para telas médias (2 colunas) */
-  @media (max-width: 799px) and (min-width: 500px) {
+  @media (max-width: 949px) and (min-width: 500px) {
     .grid {
       grid-template-columns: repeat(2, 1fr);
     }
@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6{
 
 img.imagensproduto.jarrinhos{
     height: 284px;
-    width: 160px;
+    width: 150px;
     justify-content: center;
     padding-left: 20%;
 }
