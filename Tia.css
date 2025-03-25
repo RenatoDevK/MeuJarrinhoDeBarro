@@ -109,8 +109,11 @@ img.imagensproduto.jarrinhos{
     padding-left: 20%;
 }
 
-.imagensproduto:hover{
+.imagensproduto{
     transition: all 300ms ease-in-out;
+}
+
+.imagensproduto:hover{
     transform: rotate(3deg) scale(1.05);
 }
  
